@@ -487,4 +487,9 @@
     <migrationTask xmi:id="_i4awHME0Eeikk-g8u7MdHQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_aPaSEsE0Eeikk-g8u7MdHQ" login="sprabhakara@talendconsultant" firstName="Sunil" lastName="Prabhakara" type="DQ"/>
+  <TalendProperties:User xmi:id="_ZrA3ocFMEeilRtGzMmhwhw" login="agupta@talendconsultant" firstName="Abhishek" lastName="Gupta" type="DQ"/>
+  <TalendProperties:User xmi:id="_ZrA3osFMEeilRtGzMmhwhw" login="aaslam@talendconsultant" firstName="Anas" lastName="Aslam" type="DQ"/>
+  <TalendProperties:User xmi:id="_ZrA3o8FMEeilRtGzMmhwhw" login="achokshi@talendconsultant" firstName="Amol" lastName="Chokshi" type="DQ"/>
+  <TalendProperties:User xmi:id="_ZrA3pMFMEeilRtGzMmhwhw" login="salessandro@talendconsultant" firstName="Salvatore" lastName="Alessandro" type="DQ"/>
+  <TalendProperties:User xmi:id="_ZrA3pcFMEeilRtGzMmhwhw" login="anas_data_prep@talendconsultant" firstName="Anas_DataPrep" lastName="Aslam" type="DQ"/>
 </xmi:XMI>
